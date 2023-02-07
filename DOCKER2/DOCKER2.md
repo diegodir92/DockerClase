@@ -31,4 +31,4 @@ docker run -d --name demonio php:7.4-apache
 
 #### 7. Accede al fichero info.php desde un navegador web.
 
-![](imagenes/Captura5.PNG)
+![](imagenes/Captura5.PNG) 
